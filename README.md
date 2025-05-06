@@ -1,4 +1,4 @@
-I'm Srinath🍂
+# 👋 Hi there! I'm Srinath
 
 🎓 Student at Kongu Engineering College  
 💻 Passionate Fullstack Developer | Tech Explorer  
@@ -17,12 +17,6 @@ I'm Srinath🍂
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
 ---
 
 ## 💻 IDEs and Tools I Use
@@ -33,17 +27,27 @@ I'm Srinath🍂
 ---
 
 ## 🏆 Achievements
-- 🥇 Won first prize in inter-department hackathon with [Team Name/Project]
-- 🥇 First prize in intra-department hackathon with [Team Name/Project]
-- 📝 Paper Presentation winner at [College Name]
+- 🥇 Won first prize in inter-department hackathon
+- 🥇 First prize in intra-department hackathon
+- 📝 Paper Presentation winner
 - 🥈 Runner-up in KEC Hackathon
-- 🧠 Participated in Ideathon’24 at IIC-KEC
+- 🧠 Ideathon’24 participant
 
 ---
 
-## 📊 GitHub Stats
-![Srinath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinath&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath&layout=compact&theme=dark)
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinath&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=ff6f61&icon_color=ff6f61&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Srinath&theme=radical&hide_border=true&background=0D1117&ring=ff6f61&fire=ff6f61&currStreakLabel=ff6f61" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinath&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f61&text_color=ffffff" />
+</p>
 
 ---
 
@@ -51,19 +55,3 @@ I'm Srinath🍂
 - 💌 Email: `your-email@domain.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 - 🌐 [LeetCode](https://leetcode.com/your-leetcode-username)
-
-
-<!--
-**Srinath-205/Srinath-205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
