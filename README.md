@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Srinath
+I'm Srinath🍂
 
 🎓 Student at Kongu Engineering College  
 💻 Passionate Fullstack Developer | Tech Explorer  
